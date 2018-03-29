@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/macbookpro/Desktop/PROGRAMMATION/C++/XcodeC++/sdlcommande/sdlcommande/accueil.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/macbookpro/Desktop/PROGRAMMATION/C++/XcodeC++/sdlcommande/sdlcommande/accueil.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/macbookpro/Desktop/PROGRAMMATION/C++/XcodeC++/sdlcommande/sdlcommande/classes/attaqueRapide.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/macbookpro/Desktop/PROGRAMMATION/C++/XcodeC++/sdlcommande/sdlcommande/classes/attaqueRapide.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/macbookpro/Desktop/PROGRAMMATION/C++/XcodeC++/sdlcommande/sdlcommande/classes/jeu.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/macbookpro/Desktop/PROGRAMMATION/C++/XcodeC++/sdlcommande/sdlcommande/classes/jeu.hpp">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
